@@ -1,0 +1,15 @@
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\bin\Debug\net6.0\HillelHomework.exe
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\bin\Debug\net6.0\HillelHomework.deps.json
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\bin\Debug\net6.0\HillelHomework.runtimeconfig.json
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\bin\Debug\net6.0\HillelHomework.dll
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\bin\Debug\net6.0\HillelHomework.pdb
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\obj\Debug\net6.0\HillelHomework.csproj.AssemblyReference.cache
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\obj\Debug\net6.0\HillelHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\obj\Debug\net6.0\HillelHomework.AssemblyInfoInputs.cache
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\obj\Debug\net6.0\HillelHomework.AssemblyInfo.cs
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\obj\Debug\net6.0\HillelHomework.csproj.CoreCompileInputs.cache
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\obj\Debug\net6.0\HillelHomework.dll
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\obj\Debug\net6.0\refint\HillelHomework.dll
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\obj\Debug\net6.0\HillelHomework.pdb
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\obj\Debug\net6.0\HillelHomework.genruntimeconfig.cache
+C:\Users\Oksana\source\repos\HillelHomework\HillelHomework\obj\Debug\net6.0\ref\HillelHomework.dll
